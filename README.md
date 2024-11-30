@@ -1,5 +1,5 @@
 
-# README: Cricket Forecast - Predicting Cricket Match Outcomes
+# Cricket Forecast - Predicting Cricket Match Outcomes
 
 ---
 
@@ -26,6 +26,9 @@ The system consists of a **3-tier architecture**:
 1. **User Interface (GUI)**: Built using Python's `tkinter`, it collects inputs for pre-match conditions and player statistics.
 2. **Server Tier**: Hosts the main business logic for processing inputs, running models, and predicting results.
 3. **Database Tier**: Stores the pre-trained models and datasets in pickle format for efficient retrieval.
+
+![image](https://github.com/user-attachments/assets/e2078632-cf6d-40f7-bc5f-31a44fbaccc9)
+
 
 ---
 
@@ -144,4 +147,9 @@ Data was sourced from Kaggle and includes:
 
 ---
 
-For more details, refer to the **`cric_forecast_final_report.pdf`**.
+#### GUI Interface
+
+![image](https://github.com/user-attachments/assets/09ccf13d-3cde-409c-befe-1ea7ad7a0e74)
+
+
+For more details, refer to the link http://dx.doi.org/10.1007/978-3-031-69986-3_27
